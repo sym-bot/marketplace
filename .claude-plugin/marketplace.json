@@ -5,7 +5,7 @@
     "email": "info@sym.bot"
   },
   "metadata": {
-    "description": "SYM.BOT plugin marketplace — real-time mesh and collective-intelligence tools for Claude Code, built on the Mesh Memory Protocol (MMP).",
+    "description": "SYM.BOT plugin marketplace \u2014 real-time mesh and collective-intelligence tools for Claude Code, built on the Mesh Memory Protocol (MMP).",
     "version": "1.0.0"
   },
   "plugins": [
@@ -15,8 +15,8 @@
         "source": "github",
         "repo": "sym-bot/sym-mesh-channel"
       },
-      "version": "0.5.5",
-      "description": "Real-time communication and collaboration among Claude Code sessions. Turns Claude Code into a peer node on the SYM mesh — two or more sessions discover each other via Bonjour (LAN) or a WebSocket relay (cross-network) and exchange structured cognitive signals as channel notifications. Each peer has its own Ed25519 identity, SVAF content gating, and local memory. Built on the Mesh Memory Protocol (MMP), an open peer-to-peer protocol for multi-agent collective intelligence.",
+      "version": "0.5.8",
+      "description": "Real-time communication and collaboration among Claude Code sessions. Turns Claude Code into a peer node on the SYM mesh \u2014 two or more sessions discover each other via Bonjour (LAN) or a WebSocket relay (cross-network) and exchange structured cognitive signals as channel notifications. Each peer has its own Ed25519 identity, SVAF content gating, and local memory. Built on the Mesh Memory Protocol (MMP), an open peer-to-peer protocol for multi-agent collective intelligence.",
       "author": {
         "name": "Hongwei Xu",
         "email": "hongwei@sym.bot"
